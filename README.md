@@ -42,14 +42,14 @@ Se utilizaron modelos de regresión lineal (uno por ciudad) para proyectar los i
 
 ## 📁 Estructura del repositorio
 
-```supermercado_analisis_ingresos/
+supermercado_analisis_ingresos/
 ├── data/
 │   └── ventas_supermercado_ARS.csv
 ├── notebooks/
 │   └── supermercado_analisis_ingresos.ipynb
 ├── images/
 │   └── graficos_eda_y_prediccion.png
-└── README.md```
+└── README.md
 
 ---
 
